@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cobbmhelp
 - 👀 I’m interested in Web Development and associated projects.
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on PHP projects.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python projects.
 - 📫 Reach me via email: cobbmhelp@gmail.com
 
 <!---
