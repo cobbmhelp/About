@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cobbmhelp
 - 👀 I’m interested in Web Development and associated projects.
-- 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on Ruby on Rails projects.
+- 🌱 I’m currently learning Kotlin.
+- 💞️ I’m looking to collaborate on Kotlin projects.
 - 📫 Reach me via email: cobbmhelp@gmail.com
 
 <!---
