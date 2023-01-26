@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cobbmhelp
 - 👀 I’m interested in Web Development and associated projects.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java projects.
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on Javascript projects.
 - 📫 Reach me via email: cobbmhelp@gmail.com
 
 <!---
